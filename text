@@ -1,0 +1,17 @@
+protected $fillable = ['name' , 'email' , 'address' , 'phone' , 'zip' , 'city' , 'state' , 'user_id'];
+
+    public function user(){
+        return $this->belongsTo(User::class);
+    }
+
+
+    $table->id();
+            $table->foreignId('user_id')->constrained()->onDelete('cascade');
+            $table->string('name');
+            $table->string('email');
+            $table->string('address');
+            $table->string('phone');
+            $table->string('city');
+            $table->string('zip');
+            $table->string('state');
+            $table->timestamps();
