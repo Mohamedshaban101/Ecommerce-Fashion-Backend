@@ -9,41 +9,41 @@
   
 * Login
   
-      ![Image](https://github.com/user-attachments/assets/4c04609a-96e8-48c5-aa35-16a21e69a5a9)
+  ![Image](https://github.com/user-attachments/assets/4c04609a-96e8-48c5-aa35-16a21e69a5a9)
   
 * Home Page
   
-      ![Image](https://github.com/user-attachments/assets/dfdb6d3d-a830-4beb-b390-03fca5867670)
+  ![Image](https://github.com/user-attachments/assets/dfdb6d3d-a830-4beb-b390-03fca5867670)
   
-      ![Image](https://github.com/user-attachments/assets/150f4ab7-1eaf-4fb8-bbe9-69eab55c5ee3)
+  ![Image](https://github.com/user-attachments/assets/150f4ab7-1eaf-4fb8-bbe9-69eab55c5ee3)
 
 * Shop
 
-      ![Image](https://github.com/user-attachments/assets/3f7b8c5f-97a3-4e4e-a823-f28c58ddceed)
+  ![Image](https://github.com/user-attachments/assets/3f7b8c5f-97a3-4e4e-a823-f28c58ddceed)
 
 * Product Show
 
-      ![Image](https://github.com/user-attachments/assets/e9e2d257-a7b1-4abb-bffa-3f1e178128f1)
+  ![Image](https://github.com/user-attachments/assets/e9e2d257-a7b1-4abb-bffa-3f1e178128f1)
 
 * Cart
   
-      ![Image](https://github.com/user-attachments/assets/f4bdc228-bc06-4b52-9af2-1aa067c78b54)
+  ![Image](https://github.com/user-attachments/assets/f4bdc228-bc06-4b52-9af2-1aa067c78b54)
 
 * Checkout
 
-      ![Image](https://github.com/user-attachments/assets/1bee8d96-8b5b-4a68-8c7b-da75f2348faf)
+  ![Image](https://github.com/user-attachments/assets/1bee8d96-8b5b-4a68-8c7b-da75f2348faf)
 
 * Confirm Page
 
-      ![Image](https://github.com/user-attachments/assets/3512d178-7163-4b86-90db-c79f2ab21e20)
+  ![Image](https://github.com/user-attachments/assets/3512d178-7163-4b86-90db-c79f2ab21e20)
 
 * Admin Dashboard
 
-      ![Image](https://github.com/user-attachments/assets/20484737-d371-48de-b8a0-e917125a76be)
+  ![Image](https://github.com/user-attachments/assets/20484737-d371-48de-b8a0-e917125a76be)
 
 * Admin Categories
 
-      ![Image](https://github.com/user-attachments/assets/4b9ba811-8463-4408-a0ff-11df001cb606)
+  ![Image](https://github.com/user-attachments/assets/4b9ba811-8463-4408-a0ff-11df001cb606)
 
 * Admin Brands
 
