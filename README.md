@@ -2,6 +2,11 @@
 
 ## To Run This Project Follow the following instructions
 
+* repository for frontend react
+  ```
+  git@github.com:Mohamedshaban101/Ecommerce-Fashion-Frontend.git
+  
+  ```
 ## Features
 * Register
   
